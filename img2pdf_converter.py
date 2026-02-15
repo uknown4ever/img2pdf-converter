@@ -1,5 +1,6 @@
 import img2pdf
 import os
+
 def main():
     # Fixed folder name
     folder_name = "my_images"
