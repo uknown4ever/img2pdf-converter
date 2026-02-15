@@ -28,7 +28,7 @@ cd img2pdf-converter
 pip install -r requirements.txt
 ```
 
-Or directly:
+Or  install directly:
 ```bash
 pip install img2pdf
 ```
